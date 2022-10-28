@@ -15,8 +15,5 @@ public class Exercicio01 {
 		
 		novoSalario = (salario + abono);
 		System.out.println("Seu novo salário é de: " + novoSalario);
-		
-
 	}
-
 }
